@@ -69,6 +69,4 @@ texte "messageDechiffreVigenere.txt" dans lequel nous pouvons retrouver un
 historique des autres déchiffrements via l'algorithme de Vigenère.
 
 Lien du dépôt GIT : 
-https://framagit.org/jonathan.bonnefoy/projetc.git
-
-© ChiffrementIUT 2020, Tous droit reservés à BONNEFOY Jonathan, CAULI Sacha
+https://github.com/jonathanbonnefoy/Caesar-Vigenere
